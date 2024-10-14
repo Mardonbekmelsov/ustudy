@@ -17,7 +17,7 @@ class CourseButton extends StatelessWidget {
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 8),
       padding: const EdgeInsets.all(15),
-      height: 145,
+      height: 170,
       decoration: BoxDecoration(
         color: color,
         borderRadius: BorderRadius.circular(15),
